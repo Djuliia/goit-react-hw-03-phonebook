@@ -17,10 +17,6 @@ export const StyledContactListItem = styled.li`
   color: #000;
 `;
 
-// export const StyledContactName = styled.span`
-//   flex: 1;
-// `;
-
 export const StyledDeleteButton = styled.button`
   background-color: #e6b333;
   color: #000;
